@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoluStation5", "PoluStation5\PoluStation5.csproj", "{A36D3B51-D1A9-4D30-925A-8443212F6057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36D3B51-D1A9-4D30-925A-8443212F6057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36D3B51-D1A9-4D30-925A-8443212F6057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36D3B51-D1A9-4D30-925A-8443212F6057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36D3B51-D1A9-4D30-925A-8443212F6057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE31FAC0-9E4C-4F84-9D2A-D5BAE02D2596}
+	EndGlobalSection
+EndGlobal

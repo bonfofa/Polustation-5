@@ -1,0 +1,16 @@
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\bin\Debug\PoluStation5.exe.config
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\bin\Debug\PoluStation5.exe
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\bin\Debug\PoluStation5.pdb
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.csproj.AssemblyReference.cache
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\MainWindow.g.cs
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\App.g.cs
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5_MarkupCompile.cache
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5_MarkupCompile.lref
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\App.baml
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\MainWindow.baml
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.g.resources
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.Properties.Resources.resources
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.csproj.GenerateResource.cache
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.csproj.CoreCompileInputs.cache
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.exe
+C:\Users\BONN\source\repos\PoluStation5\PoluStation5\obj\Debug\PoluStation5.pdb
